@@ -12,7 +12,7 @@ tracks:
     last_version: 0.4.1
     name: velodyne_height_map
     patches: null
-    release_inc: '0'
+    release_inc: '1'
     release_repo_url: git@github.com:jack-oquin-ros-releases/velodyne_height_map-release.git
     release_tag: velodyne_height_map-:{version}
     ros_distro: hydro
