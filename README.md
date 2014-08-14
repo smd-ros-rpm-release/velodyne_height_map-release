@@ -1,3 +1,24 @@
+## velodyne_height_map (indigo) - 0.4.1-0
+
+The packages in the `velodyne_height_map` repository were released into the `indigo` distro by running `/usr/bin/bloom-release velodyne_height_map -r indigo -t indigo -n` on `Thu, 14 Aug 2014 19:48:15 -0000`
+
+The `velodyne_height_map` package was released.
+
+Version of package(s) in repository `velodyne_height_map`:
+- upstream repository: https://github.com/jack-oquin/velodyne_height_map.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## velodyne_height_map (hydro) - 0.4.1-1
 
 The packages in the `velodyne_height_map` repository were released into the `hydro` distro by running `/usr/bin/bloom-release velodyne_height_map -r hydro -t hydro` on `Sun, 25 May 2014 17:49:14 -0000`
